@@ -8,3 +8,4 @@ If the URL `amqp://guest:guest@localhost:5672` is the same in both the publisher
 
 ## Screen RabbitMQ
 ![alt text](assets/SS1.png)
+![alt text](assets/SS2.png)
