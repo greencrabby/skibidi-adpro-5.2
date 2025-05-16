@@ -5,3 +5,6 @@ In one run, the publisher program is designed to send a total of 5 separate mess
 
 ## The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 If the URL `amqp://guest:guest@localhost:5672` is the same in both the publisher and subscriber programs, it means that both programs are connecting to the same RabbitMQ message broker, using the same credentials and server location. This setup allows the publisher to send messages to the broker, and the subscriber to receive those messages from the broker, enabling message-based communication between them.
+
+## Screen RabbitMQ
+![alt text](assets/SS1.png)
